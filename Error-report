@@ -1,0 +1,9 @@
+Oops! Operation failed...                                                     =========== ERROR LOG ===========
+                                       >>>>>>> No error log found <<<<<<      
+  =========== ERROR INFO ==========      FOUND  :
+    >>> install.sh                                               ••••       >>> lib-core.sh                              >>> lib-install.sh
+  SNIPPET:                                 >>> cp -r "${THEME_SRC_DIR}/assets/gnome-shell/common-assets/background-blank.png" "${WHITESUR_TMP_DIR}/beggy.png"
+  TRACE  :                                 >>> signal_error                       >>> install_beggy                      >>> install_themes
+    >>> main                                                                    =========== SYSTEM INFO =========      DISTRO : ubuntu;debian;21.10
+  SUDO   : yes                           GNOME  : none
+  REPO   : 2022-04-14T20:55:28-060
